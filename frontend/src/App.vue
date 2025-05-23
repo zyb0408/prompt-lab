@@ -11,7 +11,7 @@
       <RouterView />
     </el-main>
     <el-footer class="app-footer">
-      <p>© {{ new Date().getFullYear() }} Prompt Lab. All rights reserved.</p>
+      <p>© {{ new Date().getFullYear() }} Prompt Lab. All rights reserved</p>
     </el-footer>
   </el-container>
 </template>
